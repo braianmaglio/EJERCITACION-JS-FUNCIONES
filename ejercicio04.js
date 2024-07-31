@@ -9,4 +9,4 @@ function minMay (caracter) {
 }
 minMay()
 
-console.log(minMay(caracter)) // 'A'
+console.log(minMay(caracter))
