@@ -1,0 +1,3 @@
+// Promedio y calificación de notas:
+
+// Realice un programa en JavaScript que permita ingresar repetidamente el código (DNI) del estudiante (tipo entero) y dos notas (Nota1 y Nota2) de los exámenes (tipo real). La finalización del ingreso de datos ocurre cuando se ingresa un código igual a 999 (validar que las notas sean valores mayores o iguales a cero). Calcule el promedio de las notas mediante una función llamada promedioNotas. Asigne la calificación de acuerdo a las notas usando una función denominada calificacionNotas que reciba la Nota promedio y devuelva una cadena de caracteres con la calificación correspondiente.
